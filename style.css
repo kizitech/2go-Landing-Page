@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    color: #333333;
+    background-image: url(photos/go-bg.png);
+    font-family: 'Inter', sans-serif;
+    background-repeat: repeat-x;
+    text-align: center;
+    line-height: 22px;
+}
+
+.go-wrapper {
+    width: 960px;
+    background-color: #fff;
+    overflow: hidden;
+    margin: auto;
+}
+
+header {
+    background-image: url(photos/go-header.png);
+    background-size: cover;
+    width: 960px;
+    height: 160px;
+}
+
+/* NAVIGATION BAR SECTION =============================================================*/
+
+.nav {
+    background-image: url(photos/go-nav.png);
+    background-repeat: repeat-x;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 77px;
+    width: 960px;
+    padding: 4px 0px;
+}
+
+.nav-container {
+    background-image: url(photos/go-inner-nav.png);
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    height: 55px;
+    width: 935px;
+    font-size: 16px;
+}
+
+.nav-container ul {
+    margin: 0px 80px;
+    margin-bottom: 1px;
+}
+
+.nav-container li {
+    display: inline-block;
+    padding: 16px 15px;
+    transition: all;
+}
+
+.nav-container li:hover {
+    background: linear-gradient(to top, #023c71, #023b7130);
+}
+
+.downloadnow {
+    background-image: url(photos/downloadnow-button.png);
+    display: flex;
+    margin: 0px 30px;
+    width: 171px;
+    height: 55px;
+}
+
+span a {
+    padding: 16px 32px;
+    position: absolute;
+}
+
+/* APP DOWNLOAD SECTION ================================================================*/
+
+.social {
+    background-image: url(photos/social-download-bg.png);
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px 10px;
+    gap: 8px;
+    background-repeat: repeat-x;
+    height: 47px;
+    width: 960px;
+}
+
+/* BENEFITS ============================================================================*/
+
+.chatWith {
+    background-image: url(photos/go-chatWith.png);
+    background-size: cover;
+    width: 960px;
+    height: 140px;
+    margin-left: -50px;
+}
+
+.benefits {
+    background-image: url(photos/go-benefits.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 32px;
+    height: 70px;
+    width: 895px;
+}
+
+.phone-showcase {
+    background-image: url(photos/go-phones.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 20px 27px;
+    width: 960px;
+    height: 410px;
+}
+
+/* FOOTER SECTION =====================================================================*/
+footer {
+    background-image: url(photos/footer-bg.png);
+    background-size: contain;
+    width: 920px;
+    height: 70px;
+    display: flex;
+    margin: 25px auto;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    border-radius: 20px;
+    position: relative;
+    top: 30px;
+}
+
+footer a {
+    text-decoration: underline;
+    color: #48acea;
+}
