@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site URL here]()
+- Live Site URL: [Live site URL here](https://kizitech.github.io/2go-Landing-page/)
 
 ## My process
 
