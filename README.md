@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the live 2go site](photos/screenshot.jpg)
+![Screenshot of 2go landing page project](photos/screenshot.JPG)
 
 
 ### Links
