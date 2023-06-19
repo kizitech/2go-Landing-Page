@@ -64,8 +64,10 @@ Users should be able to:
 - Twitter - [Ohani_Kizito](https://www.twitter.com/Ohani_Kizito)
 
 
-## Clone the Repository
+## Clone the Repository:
+```
 git clone https://github.com/kizitech/2go-Landing-Page.git
+```
 
 ## Contributing
 As this landing page is built with plain HTML and CSS, contributions may involve customization and enhancements specific to your needs. Therefore, there might not be a collaborative contribution process in the traditional sense. However, you are free to fork the repository, make modifications, and adapt it to suit your requirements.
