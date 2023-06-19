@@ -59,7 +59,7 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [Ohani Kizito](https://www.your-site.com)
+- LinkedIn - [Ohani Kizito](https://www.linkedin.com/in/ohanikizito/)
 - Twitter - [Ohani_Kizito](https://www.twitter.com/Ohani_Kizito)
 
 
