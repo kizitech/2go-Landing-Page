@@ -28,36 +28,21 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot of 2go landing page project](photos/screenshot.JPG)
-<<<<<<< HEAD
-
-### Links
-
--   Live Site URL: [Live site URL here]()
-=======
 
 
 ### Links
 
 - Live Site URL: [Live site URL here](https://kizitech.github.io/2go-Landing-page/)
->>>>>>> f78798446b4b74a302a97434276b2fd8e9ddb30c
 
 ## My process
 
 ### Built with
 
-<<<<<<< HEAD
--   Semantic HTML5 markup
--   CSS custom properties
--   Flexbox
--   CSS Grid
--   Desktop-first workflow
-=======
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Desktop-first workflow
 
->>>>>>> f78798446b4b74a302a97434276b2fd8e9ddb30c
 
 ### What I learned
 
@@ -72,20 +57,12 @@ Users should be able to:
 
 ## Author
 
-<<<<<<< HEAD
--   LinkedIn - [Ohani Kizito](https://www.your-site.com)
--   Twitter - [Ohani_Kizito](https://www.twitter.com/Ohani_Kizito)
-
-## Clone the Repository
-
-=======
 - LinkedIn - [Ohani Kizito](https://www.linkedin.com/in/ohanikizito/)
 - Twitter - [Ohani_Kizito](https://www.twitter.com/Ohani_Kizito)
 
 
 ## Clone the Repository:
 ```
->>>>>>> f78798446b4b74a302a97434276b2fd8e9ddb30c
 git clone https://github.com/kizitech/2go-Landing-Page.git
 ```
 
@@ -94,8 +71,4 @@ git clone https://github.com/kizitech/2go-Landing-Page.git
 As this landing page is built with plain HTML and CSS, contributions may involve customization and enhancements specific to your needs. Therefore, there might not be a collaborative contribution process in the traditional sense. However, you are free to fork the repository, make modifications, and adapt it to suit your requirements.
 
 ## Conclusion
-<<<<<<< HEAD
-
-=======
->>>>>>> f78798446b4b74a302a97434276b2fd8e9ddb30c
 Thank you for using the 2go social media landing page template. We hope it effectively showcases your social media platform and attracts potential users. If you have any questions or need further assistance, please feel free to reach out. Happy customization!
